@@ -1,9 +1,6 @@
-{ inputs, pkgs, ... }:
+{ ... }:
 {
-  imports = [ inputs.zen-browser.homeModules.beta ];
-
-  programs.zen-browser = {
+  programs.chromium = {
     enable = true;
-    setAsDefaultBrowser = true;
   };
 }

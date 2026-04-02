@@ -4,10 +4,10 @@
     enable = true;
 
     settings = {
-      color_theme = "TTY";
+      color_theme = "matcha-dark-sea";
       theme_background = false;
       update_ms = 500;
-      rounded_corners = false;
+      rounded_corners = true;
     };
   };
 }
