@@ -9,6 +9,7 @@
     soundwireserver
     vlc
     telegram-desktop
+    anki
 
     ## Office
     libreoffice
