@@ -10,6 +10,7 @@
     vlc
     telegram-desktop
     anki
+    google-chrome
 
     ## Office
     libreoffice
